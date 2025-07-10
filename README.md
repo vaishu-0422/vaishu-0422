@@ -10,6 +10,6 @@
 💡 I love exploring new ideas and solving real-world problems.
 
 📫 How to reach me:
-- Email: sonavanevaishnavi@gmail.com
+- Email: sonavanevaishanvi@gmail.com
 - LinkedIn: [Vaishnavi Sonavane](https://linkedin.com/in/vaishnavi-sonavane-8ab113335)
 
