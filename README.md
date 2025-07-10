@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**vaishu-0422/vaishu-0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, I'm Vaishnavi Sonavane!
 
-Here are some ideas to get you started:
+🔭 I’m a fresher Full Stack Java Developer skilled in Java, JSP, Servlets, Spring basics, Hibernate basics, HTML, CSS, Bootstrap, JavaScript, and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently looking for opportunities to apply my skills and grow.
+
+📚 I have built a **Student Attendance Management System** project to showcase my hands-on learning.
+
+💡 I love exploring new ideas and solving real-world problems.
+
+📫 How to reach me:
+- Email: sonavanevaishnavi@gmail.com
+- LinkedIn: [Vaishnavi Sonavane](https://linkedin.com/in/vaishnavi-sonavane-8ab113335)
+
