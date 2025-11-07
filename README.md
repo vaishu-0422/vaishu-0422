@@ -24,3 +24,4 @@ LinkedIn: Vaishnavi Sonavane
 
 💻 GitHub Project Link:
 👉 Student Record Management System
+https://github.com/vaishu-0422/vaishu-0422.git
