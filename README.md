@@ -1,15 +1,26 @@
+👋 Hi there, I'm Vaishnavi Sonavane!
 
-### 👋 Hi there, I'm Vaishnavi Sonavane!
+🔭 I’m a fresher Full Stack Java Developer skilled in Core Java, JDBC, JSP, Servlets, Spring (basics), Hibernate (basics), HTML, CSS, Bootstrap, JavaScript, and Oracle/MySQL.
 
-🔭 I’m a fresher Full Stack Java Developer skilled in Java, JSP, Servlets, Spring basics, Hibernate basics, HTML, CSS, Bootstrap, JavaScript, and MySQL.
+🌱 I’m passionate about building efficient, clean, and modular software solutions.
 
-🌱 I’m currently looking for opportunities to apply my skills and grow.
+📚 I have developed a Student Record Management System project using Core Java and JDBC to manage student, subject, department, and marks data with full CRUD operations.
 
-📚 I have built a **Student Attendance Management System** project to showcase my hands-on learning.
+💡 This project showcases my understanding of object-oriented programming, DAO pattern, and database connectivity.
 
-💡 I love exploring new ideas and solving real-world problems.
+🛠️ Project Highlights:
+
+Technologies: Java, JDBC, Oracle Database
+
+Features: Add, View, Update, and Delete records for Students, Subjects, Departments, and Marks
+
+Tools Used: Eclipse IDE, Oracle SQL Developer
 
 📫 How to reach me:
-- Email: sonavanevaishanvi@gmail.com
-- LinkedIn: [Vaishnavi Sonavane](https://linkedin.com/in/vaishnavi-sonavane-8ab113335)
 
+Email: sonavanevaishanvi@gmail.com
+
+LinkedIn: Vaishnavi Sonavane
+
+💻 GitHub Project Link:
+👉 Student Record Management System
