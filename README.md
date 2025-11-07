@@ -21,6 +21,7 @@ Tools Used: Eclipse IDE, Oracle SQL Developer
 Email: sonavanevaishanvi@gmail.com
 
 LinkedIn: Vaishnavi Sonavane
+https://www.linkedin.com/in/vaishnavi-sonavane-8ab113335/
 
 💻 GitHub Project Link:
 👉 Student Record Management System
